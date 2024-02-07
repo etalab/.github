@@ -1,5 +1,3 @@
-__Les ressources d'Etalab vont bientôt bouger !__
-__Elles seront désormais sur [https://github.com/numerique-gouv](https://github.com/numerique-gouv)__
+__Numérique-gouv dispose également de ressources ici : [https://github.com/numerique-gouv](https://github.com/numerique-gouv)__
 
-__*Etalab Datalab resources will soon move!*__
-__*They will be on [https://github.com/numerique-gouv](https://github.com/numerique-gouv)*__
+__Etalab dispose également de ressources spécifiquement dédiée à l'Intelligence Artificielle ici : [https://github.com/etalab-ia](https://github.com/etalab-ia)__
