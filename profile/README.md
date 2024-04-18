@@ -1,4 +1,4 @@
-# Bienvenue 
+## Bienvenue 
 
 Bienvenue sur le compte GitHub d'Etalab, un service de la Direction Interministérielle du Numérique (DINUM) de l'État français !  
 *Welcome to the GitHub account of Etalab, a service of the Direction Interministérielle du Numérique (DINUM) of the French State!*
