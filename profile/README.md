@@ -10,4 +10,4 @@ En particulier :
 *In particular:*
 
 - __Numérique-gouv : [github.com/numerique-gouv](https://github.com/numerique-gouv)__
-- __Etalab pour l'Intelligence Artificielle : [etalab-ia](https://github.com/etalab-ia)__
+- __Etalab pour l'Intelligence Artificielle : [github.com/etalab-ia](https://github.com/etalab-ia)__
